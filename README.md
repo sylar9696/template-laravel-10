@@ -7,5 +7,14 @@
 5. npm run dev
 6. php artisan serve
 
+## ordine di creazione file
+
+1. migration
+2. modello
+3. seeder
+4. controller
+5. rotte
+6. CRUD
+
 
 
