@@ -1,6 +1,6 @@
 @extends('layouts.app');
 
-@section('title', 'La Molisana | Home')
+@section('title', 'Home')
 
 @section('main')
     <main>
